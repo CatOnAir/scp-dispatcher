@@ -1,11 +1,11 @@
-# scp-dispatcher
+# SCP Dispatcher
 A browser oriented game by KadsenDEV.
 
+# Infos
 
+Das Spiel ist noch in Entwicklung!
 
-Lizenz
-
-------------------------------
+# Lizenz
 
 Lizenz DE
 
