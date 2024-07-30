@@ -15,6 +15,7 @@ Das Projekt basiert auf dem SCP Foundation Wiki. SCP Foundation Wiki: (https://s
 
 Der Quellcode ist vollständig Open Source und kann auf GitHub eingesehen und genutzt werden.
 
+---------------------
 
 License EN
 
